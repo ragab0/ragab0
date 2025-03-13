@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-See my portfolio at: https://ragab.vercel.app/
-See my codeforces profile at: https://codeforces.com/profile/_ragab/
+**Portfolio:** https://ragab.vercel.app/
+
+**Codeforces profile:** https://codeforces.com/profile/_ragab/
 
 <!--
 **ragab0/ragab0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
